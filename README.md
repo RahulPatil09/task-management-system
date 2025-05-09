@@ -43,7 +43,7 @@ A simple and user-friendly Task Management System built with Java Swing. This ap
 1. Open Eclipse IDE
 2. Go to File → Import → Git → Projects from Git
 3. Select "Clone URI"
-4. Enter the repository URL: `https://github.com/yourusername/task-management-system.git`
+4. Enter the repository URL: `https://github.com/rahulpatil09/task-management-system.git`
 5. Follow the wizard to complete the import
 6. Right-click on the project → Run As → Java Application
 7. Select `MainGUI` as the main class
