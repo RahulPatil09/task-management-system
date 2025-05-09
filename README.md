@@ -24,7 +24,7 @@ A simple and user-friendly Task Management System built with Java Swing. This ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management-system.git
+   git clone https://github.com/rahulpatil09/task-management-system.git
    cd task-management-system
    ```
 
